@@ -1,0 +1,36 @@
+body {
+    background-image: url("../images/backgroundone.jpg");
+    background-size: 100%;
+}
+
+#logo {
+    width: 200px;
+    height: auto;
+    display: block;
+    float: right;
+    background-color: black;
+    margin-right: 200px; 
+}
+
+.main-img-container {
+    /* background-color: red; */
+    display: inline-block;
+    /* border: solid red; */
+}
+.main-images {
+    width: auto;
+    height: 150px;
+    display: inline-block;
+    margin-top: 150px;
+    float: left;
+    /* margin-left:px; */
+}
+
+h1 {
+    font-size: 25px;
+}
+
+.heading-margin {
+    margin-top: 20px;
+    margin-left: 30px;
+}
